@@ -14,7 +14,7 @@ on:
         type: choice
         options:
         - shrp-12.1
-        - shrp-9.0
+        - v3_10.0
         - v3_11.0
         - v3_9.0
       DEVICE_TREE:
